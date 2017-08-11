@@ -1261,17 +1261,28 @@ p {
   color: #379392;
 }
 .text-secondary {
-    color:#E15554
+    color:#E15554;
 }
 .text-tertiary {
-    color:#FF6A00
+    color:#FF6A00;
+/*    text-decoration-color: #FF6A00;*/
+}
+.text-tertiary:hover{
+    color:#e66000;
 }
 .text-quaternary {
-    color:#7768AE
+    color:#7768AE;
 }
+/*#FBD14E*/
 .text-quinary {
-    color:#FBD14E
+    color:#003FCE;
 }
+
+.text-quinary:hover{
+    color:#0036b3;
+}
+
+
 a.text-primary:hover {
   color: #296e6d;
 }
