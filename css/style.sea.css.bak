@@ -382,7 +382,7 @@ a:active {
   padding-bottom: 0;
 }
 .footer__copyright {
-  background: #379392;
+  background: #3c2967;
   color: #ccc;
   padding: 20px 0;
   font-size: 14px;
@@ -1261,16 +1261,16 @@ p {
   color: #379392;
 }
 .text-secondary {
-    color:#E15554
+    color:#A9E5BB
 }
 .text-tertiary {
-    color:#FF6A00
+    color:#FF9932
 }
 .text-quaternary {
-    color:#7768AE
+    color:#993E58
 }
 .text-quinary {
-    color:#FBD14E
+    color:#EA423C
 }
 a.text-primary:hover {
   color: #296e6d;
@@ -1454,42 +1454,4 @@ p.social.social--outline a.email {
 p.social.social--outline a.link {
   color: #871AFF;
   border-color: #871AFF;
-}
-
-/*tweaks added at bottom*/
-
-.col-xs-5ths,
-.col-sm-5ths,
-.col-md-5ths,
-.col-lg-5ths {
-    position: relative;
-    min-height: 1px;
-    padding-right: 15px;
-    padding-left: 15px;
-}
-
-.col-xs-5ths {
-    width: 20%;
-    float: left;
-}
-
-@media (min-width: 768px) {
-    .col-sm-5ths {
-        width: 20%;
-        float: left;
-    }
-}
-
-@media (min-width: 992px) {
-    .col-md-5ths {
-        width: 20%;
-        float: left;
-    }
-}
-
-@media (min-width: 1200px) {
-    .col-lg-5ths {
-        width: 20%;
-        float: left;
-    }
 }
