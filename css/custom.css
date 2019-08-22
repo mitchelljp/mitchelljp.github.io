@@ -1,1 +1,12 @@
 /* your styles go here */
+
+video{
+    display: block;
+    cursor: pointer;
+}
+
+/*
+.hover{
+    display: block;
+    position: absolute;
+}*/
